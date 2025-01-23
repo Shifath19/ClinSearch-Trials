@@ -39,6 +39,25 @@ ClinSearch is a powerful web application designed to help researchers, healthcar
 - [date-fns](https://date-fns.org/) for date formatting and manipulation
 - [Lucide React](https://lucide.dev/) for icons
 
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js (version 14.6.0 or newer)
+- npm (usually comes with Node.js) or yarn
+
+## Cloning the Repository
+
+To clone the repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/your-username/clinsearch.git
+cd clinsearch```
+
+## Run the App locally
+
+npm install & npm run dev
+
 
 
 

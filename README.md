@@ -3,7 +3,12 @@
 
 ClinSearch is a powerful web application designed to help researchers, healthcare professionals, and patients find and analyze clinical trials from around the world. It provides an intuitive interface for searching through thousands of clinical trials, offering advanced filtering options and real-time access to the latest medical research opportunities.
 
-![ClinSearch Screenshot](https://soqmsb04dk.ufs.sh/f/KBljPeC0dD9GinvoRFe2v0C8OS9X1tdY2L6NQkosnGzUwRyM)
+## Landing
+![ClinSearch Screenshot](https://soqmsb04dk.ufs.sh/f/KBljPeC0dD9GeAehb4F6Q4idAjtysaoZ9XB0v7GlURhuPSFf)
+
+## Table
+![ClinSearch Screenshot](https://soqmsb04dk.ufs.sh/f/KBljPeC0dD9GdizAeUHGQ0eNpqgFH2lL1KhmPxVSvcJiEszB)
+
 
 ## Table of Contents
 
